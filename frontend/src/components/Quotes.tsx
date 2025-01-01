@@ -15,7 +15,7 @@ export const Quotes = () => {
         our online casino !
       </h3>
       <Button className="hover:bg-green-600" onClick={() => navigate("/game")}>
-        Play Plinko
+        Get Started
       </Button>
     </div>
   );
